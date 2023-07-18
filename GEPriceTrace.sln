@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEPriceTrace", "GEPriceTrace\GEPriceTrace.csproj", "{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC4F170C-E03A-4E77-AF4D-3FB71179CBDD}
+	EndGlobalSection
+EndGlobal
