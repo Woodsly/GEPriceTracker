@@ -1,4 +1,6 @@
 export interface ScapeDBItem {
+current: any;
+today: any;
     id: number;
     icon: string;
     iconLarge: string;

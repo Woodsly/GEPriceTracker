@@ -85,9 +85,10 @@ D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\staticwebassets.pack
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\staticwebassets.build.json
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\staticwebassets.development.json
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\scopedcss\bundle\GEPriceTrace.styles.css
-D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceTrace.csproj.CopyComplete
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceTrace.dll
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\refint\GEPriceTrace.dll
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceTrace.pdb
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceTrace.genruntimeconfig.cache
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\ref\GEPriceTrace.dll
+D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceTrace.sourcelink.json
+D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceT.6675986A.Up2Date

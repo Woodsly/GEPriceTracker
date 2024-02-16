@@ -21,5 +21,11 @@ namespace GEPriceTrace.Controllers
         {
             return _repository.GetDBItemDetails(itemId);
         }
+        //code that seaarches for a scapedbitem by name
+        [HttpGet("GetScapeItemByName")]
+        public ScapeDBItem GetScapeItem(string itemName)
+        {
+            return _repository.GetDBItemDetailsByName(itemName);
+        }
     }
 }

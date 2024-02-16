@@ -9,8 +9,8 @@ import { NgModule } from '@angular/core';
   styleUrls: ['./item-search.component.css']
 })
 export class ItemSearchComponent implements OnInit {
-  
   itemSearchInput: number = 4100;
+  itemNameSearchInput: string = "Abyssal whip";
   item:ScapeDBItem = {} as ScapeDBItem
   constructor(private scapeItemService: ScapeItemService) {}
 
@@ -27,4 +27,12 @@ export class ItemSearchComponent implements OnInit {
       this.item = response;
     })
   }
+
+  itemSearchButton_ClickByName(): void {
+    this.scapeItemService.getScapeItemsByName(this.itemNameSearchInput).subscribe((response: any) => {
+      console.log(response);
+      this.item = response;
+    })
+  }
+
 }

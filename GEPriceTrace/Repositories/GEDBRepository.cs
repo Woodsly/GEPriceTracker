@@ -13,5 +13,11 @@ namespace GEPriceTrace.Repositories
         {
             return _context.ScapeItems.FirstOrDefault(x => x.ItemId == itemId);
         }
+
+        //code that seaarches for a scapedbitem by name
+        public ScapeDBItem GetDBItemDetailsByName(string itemName)
+        {
+            return _context.ScapeItems.FirstOrDefault(x => x.Name == itemName);
+        }
     }
 }

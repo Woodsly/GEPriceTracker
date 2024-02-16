@@ -14,4 +14,9 @@ export class ScapeItemService {
    getScapeItems(itemId:number) : any {
     return this.http.get(`${this.baseUrl}${this.endpoint}/GetScapeItem?itemId=${itemId}`);
    }
+
+   //code that gets item from the database by name
+    getScapeItemsByName(itemName:string) : any {
+      return this.http.get(`${this.baseUrl}${this.endpoint}/GetScapeItemByName?itemName=${itemName}`);
+    }
 }
