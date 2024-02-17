@@ -52,6 +52,52 @@
     ]
   },
   {
+    "ContainingType": "GEPriceTrace.Controllers.WikiController",
+    "Method": "GetAllWikiItems",
+    "RelativePath": "GetAllWikiItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GEPriceTrace.Models.WikiItems",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GEPriceTrace.Controllers.WikiController",
+    "Method": "GetWikiItemById",
+    "RelativePath": "GetWikiItemById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GEPriceTrace.Models.WikiItems",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "GEPriceTrace.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

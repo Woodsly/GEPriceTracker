@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IhtkeOw2lIgJAcSpdW9EgBaP33OrN/jazh8RjsbnKsCxlD5DYrhJc+g/hUEd4yiPHNMeMBOu2L1xC/iuSHDHug==",
+  "dgSpecHash": "RWS20Ed0w8eA1N09NWPO1Ac1qN5mNYp5BDMJV7STo/hC7h/Vtx7JACHBKMIfTpfYk94hVbeANwCWLux4+arj9Q==",
   "success": true,
   "projectFilePath": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\GEPriceTrace.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

@@ -92,3 +92,4 @@ D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceTrace.genrunt
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\ref\GEPriceTrace.dll
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceTrace.sourcelink.json
 D:\C\development\GEPriceTrace\GEPriceTrace\obj\Debug\net6.0\GEPriceT.6675986A.Up2Date
+D:\C\development\GEPriceTrace\GEPriceTrace\bin\Debug\net6.0\Newtonsoft.Json.dll

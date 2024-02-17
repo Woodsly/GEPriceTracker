@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\C\\development\\GEPriceTrace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\controllers\\gedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\controllers\\gedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\repositories\\wikirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\repositories\\wikirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\controllers\\wikicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\controllers\\wikicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\repositories\\iwikirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\repositories\\iwikirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\models\\wikiitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\models\\wikiitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\models\\scapedbitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\models\\scapedbitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\repositories\\igedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\repositories\\igedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\repositories\\gedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\repositories\\gedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\repositories\\igedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\repositories\\igedbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|d:\\c\\development\\gepricetrace\\gepricetrace\\controllers\\gedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53844C0B-A964-4F7C-AD7B-C8DC49B89EBB}|GEPriceTrace\\GEPriceTrace.csproj|solutionrelative:gepricetrace\\controllers\\gedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,85 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Program.cs",
+              "RelativeDocumentMoniker": "GEPriceTrace\\Program.cs",
+              "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Program.cs",
+              "RelativeToolTip": "GEPriceTrace\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T03:02:07.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WikiRepository.cs",
+              "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Repositories\\WikiRepository.cs",
+              "RelativeDocumentMoniker": "GEPriceTrace\\Repositories\\WikiRepository.cs",
+              "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Repositories\\WikiRepository.cs",
+              "RelativeToolTip": "GEPriceTrace\\Repositories\\WikiRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawBoAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T03:00:49.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScapeDBItem.cs",
+              "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Models\\ScapeDBItem.cs",
+              "RelativeDocumentMoniker": "GEPriceTrace\\Models\\ScapeDBItem.cs",
+              "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Models\\ScapeDBItem.cs",
+              "RelativeToolTip": "GEPriceTrace\\Models\\ScapeDBItem.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T03:00:11.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "WikiItems.cs",
+              "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Models\\WikiItems.cs",
+              "RelativeDocumentMoniker": "GEPriceTrace\\Models\\WikiItems.cs",
+              "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Models\\WikiItems.cs",
+              "RelativeToolTip": "GEPriceTrace\\Models\\WikiItems.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T02:38:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WikiController.cs",
+              "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Controllers\\WikiController.cs",
+              "RelativeDocumentMoniker": "GEPriceTrace\\Controllers\\WikiController.cs",
+              "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Controllers\\WikiController.cs",
+              "RelativeToolTip": "GEPriceTrace\\Controllers\\WikiController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T03:04:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWikiRepository.cs",
+              "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Repositories\\IWikiRepository.cs",
+              "RelativeDocumentMoniker": "GEPriceTrace\\Repositories\\IWikiRepository.cs",
+              "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Repositories\\IWikiRepository.cs",
+              "RelativeToolTip": "GEPriceTrace\\Repositories\\IWikiRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T02:36:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IGEDBRepository.cs",
               "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Repositories\\IGEDBRepository.cs",
               "RelativeDocumentMoniker": "GEPriceTrace\\Repositories\\IGEDBRepository.cs",
@@ -38,47 +136,31 @@
               "RelativeToolTip": "GEPriceTrace\\Repositories\\IGEDBRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-16T19:49:09.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T19:49:09.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "GeDBController.cs",
               "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Controllers\\GeDBController.cs",
               "RelativeDocumentMoniker": "GEPriceTrace\\Controllers\\GeDBController.cs",
               "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Controllers\\GeDBController.cs",
               "RelativeToolTip": "GEPriceTrace\\Controllers\\GeDBController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-16T19:46:40.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T19:46:40.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ScapeDBItem.cs",
-              "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Models\\ScapeDBItem.cs",
-              "RelativeDocumentMoniker": "GEPriceTrace\\Models\\ScapeDBItem.cs",
-              "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Models\\ScapeDBItem.cs",
-              "RelativeToolTip": "GEPriceTrace\\Models\\ScapeDBItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-16T18:16:39.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "GEDBRepository.cs",
               "DocumentMoniker": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Repositories\\GEDBRepository.cs",
               "RelativeDocumentMoniker": "GEPriceTrace\\Repositories\\GEDBRepository.cs",
               "ToolTip": "D:\\C\\development\\GEPriceTrace\\GEPriceTrace\\Repositories\\GEDBRepository.cs",
               "RelativeToolTip": "GEPriceTrace\\Repositories\\GEDBRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-07-18T11:59:47.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-07-18T11:59:47.456Z"
             }
           ]
         }

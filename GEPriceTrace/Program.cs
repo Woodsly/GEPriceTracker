@@ -23,6 +23,8 @@ builder.Services.AddCors(options =>
 });
 string connectionString = builder.Configuration["ConnectionStrings:DefaultConnection"];
 builder.Services.AddScoped<IGEDBRepository, GEDBRepository>();
+builder.Services.AddScoped<IWikiRepository, WikiRepository>();
+builder.Services.AddHttpClient();
 builder.Services.AddDbContext<GedbContext>(x => x.UseSqlServer(connectionString));
 var app = builder.Build();
 app.UseCors("CorsPolicy");
