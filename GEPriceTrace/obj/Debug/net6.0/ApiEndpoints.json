@@ -54,7 +54,7 @@
   {
     "ContainingType": "GEPriceTrace.Controllers.WikiController",
     "Method": "GetAllWikiItems",
-    "RelativePath": "GetAllWikiItems",
+    "RelativePath": "api/Wiki/GetAllWikiItems",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -74,7 +74,7 @@
   {
     "ContainingType": "GEPriceTrace.Controllers.WikiController",
     "Method": "GetWikiItemById",
-    "RelativePath": "GetWikiItemById",
+    "RelativePath": "api/Wiki/GetWikiItemById",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

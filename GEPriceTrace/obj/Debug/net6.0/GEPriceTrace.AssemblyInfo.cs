@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GEPriceTrace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5675d3a703cf32393aae13f555788345782e833f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08278e735ff76b3a837a348a6070ade285a6ff88")]
 [assembly: System.Reflection.AssemblyProductAttribute("GEPriceTrace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GEPriceTrace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

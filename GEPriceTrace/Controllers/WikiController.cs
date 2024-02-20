@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GEPriceTrace.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class WikiController : ControllerBase
     {
         IWikiRepository _repository;

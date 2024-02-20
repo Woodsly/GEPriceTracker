@@ -1,0 +1,13 @@
+<h1>Check Wiki Prices</h1>
+<p *ngIf="itemIdInput !== null">{{ item.data[itemIdInput]?.high }}</p>
+<p></p>
+
+<input type="number" [(ngModel)]="itemIdInput" />
+
+<button
+  style="margin-left: 8px"
+  name="itemSearchButton"
+  (click)="itemSearchButton_Click()"
+>
+  Search the Wiki!
+</button>

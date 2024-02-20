@@ -9,11 +9,13 @@ import { environment } from './environments/environment';
 import { ItemSearchComponent } from './components/item-search/item-search.component';
 import { RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { WikiSearchComponent } from './components/wiki-search/wiki-search.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ItemSearchComponent
+    ItemSearchComponent,
+    WikiSearchComponent
   ],
   imports: [
     BrowserModule,
@@ -21,7 +23,8 @@ import { FormsModule } from '@angular/forms';
     HttpClientModule,
     FormsModule,
     RouterModule.forRoot([
-      { path: 'itemSearch', component: ItemSearchComponent}
+      { path: 'itemSearch', component: ItemSearchComponent},
+      { path: 'wikiSearch', component: WikiSearchComponent}
     ])
   ],
   providers: [
